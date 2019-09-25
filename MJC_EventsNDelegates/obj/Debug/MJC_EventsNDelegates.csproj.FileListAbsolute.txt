@@ -1,0 +1,7 @@
+C:\Users\kimbe\OneDrive\Documents\Visual Studio 2017\Projects\MJC_EventsNDelegates\MJC_EventsNDelegates\bin\Debug\MJC_EventsNDelegates.exe.config
+C:\Users\kimbe\OneDrive\Documents\Visual Studio 2017\Projects\MJC_EventsNDelegates\MJC_EventsNDelegates\bin\Debug\MJC_EventsNDelegates.exe
+C:\Users\kimbe\OneDrive\Documents\Visual Studio 2017\Projects\MJC_EventsNDelegates\MJC_EventsNDelegates\bin\Debug\MJC_EventsNDelegates.pdb
+C:\Users\kimbe\OneDrive\Documents\Visual Studio 2017\Projects\MJC_EventsNDelegates\MJC_EventsNDelegates\obj\Debug\MJC_EventsNDelegates.csprojAssemblyReference.cache
+C:\Users\kimbe\OneDrive\Documents\Visual Studio 2017\Projects\MJC_EventsNDelegates\MJC_EventsNDelegates\obj\Debug\MJC_EventsNDelegates.csproj.CoreCompileInputs.cache
+C:\Users\kimbe\OneDrive\Documents\Visual Studio 2017\Projects\MJC_EventsNDelegates\MJC_EventsNDelegates\obj\Debug\MJC_EventsNDelegates.exe
+C:\Users\kimbe\OneDrive\Documents\Visual Studio 2017\Projects\MJC_EventsNDelegates\MJC_EventsNDelegates\obj\Debug\MJC_EventsNDelegates.pdb
